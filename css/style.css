@@ -49,7 +49,6 @@ img:hover {
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
 .column {
   max-width: 100%;
-  margin: 0 auto;
 }
 .grid{
   display:grid;
