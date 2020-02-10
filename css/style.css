@@ -50,10 +50,12 @@ img:hover {
 .column {
   max-width: 100%;
   margin: 0 auto;
+}
+.grid{
   display:grid;
   grid-template-columns: 1fr 1fr 1fr;
-
 }
+
 
 .gallery__img {
     width: 100%;
