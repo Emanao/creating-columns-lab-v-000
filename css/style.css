@@ -59,6 +59,7 @@ img:hover {
 .col-2{
   width: 62%;
   height: 62%;
+  clear: left;
 }
 .col-3{
   width: 93%;
