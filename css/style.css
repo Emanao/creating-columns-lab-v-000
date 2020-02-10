@@ -51,7 +51,7 @@ img:hover {
   max-width: 100%;
   border: 10px solid #14a76c;
   display:grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 2fr;
 }
 
 .gallery__img {
