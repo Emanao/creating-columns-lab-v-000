@@ -55,7 +55,7 @@ img{
   height:100vh;
   border: 1px solid #14a76c;
   display:grid;
-  grid-template-columns: 1fr 2fr;
+  grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 1fr 1fr;
   grid-auto-rows: 1fr 1fr 1fr;
 }
