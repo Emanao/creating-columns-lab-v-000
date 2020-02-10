@@ -52,7 +52,7 @@ img{
   height: 100%;
 }
 .column {
-  height:100vh;
+  width: 90vw;
   border: 1px solid #14a76c;
   display:grid;
   grid-template-columns: 1fr 1fr 1fr;
