@@ -49,14 +49,10 @@ img:hover {
 /* create a column class! make sure all of the divs within 'container's have a class of 'column' */
 .column {
   max-width: 100%;
-}
-.grid{
-  max-width: 100%;
   border: 10px solid #14a76c;
   display:grid;
   grid-template-columns: 1fr 1fr 1fr;
 }
-
 
 .gallery__img {
     /*width: 100%;
