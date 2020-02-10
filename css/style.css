@@ -52,17 +52,26 @@ img:hover {
 }
 
 /* create your tile classes! we recommend .small .med .large */
-col-1{
+.col-1{
   width: 31%;
   height: 31%;
 }
-col-2{
+.col-2{
   width: 62%;
   height: 62%;
 }
-col-3{
+.col-3{
   width: 93%;
   height: 93%;
+}
+
+.clearfix:after{
+  content: ".";
+  display: block;
+  clear: both;
+  visibility: hidden;
+  height: 0;
+  line-height: 0;
 }
 
 
