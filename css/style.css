@@ -53,7 +53,7 @@ img{
 }
 .column {
   height: 100vh;
-  width: 90%;
+  width: 95%;
   margin: 0 auto;
   border: 1px solid #14a76c;
   display:grid;
