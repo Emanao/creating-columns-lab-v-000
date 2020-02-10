@@ -53,12 +53,16 @@ img:hover {
   display:grid;
   grid-template-columns: repeat(2, 1fr 2fr);
 }
+img{
+  width: 100%;
+  height: 100%;
+}
 
-.gallery__img {
+/*.gallery__img {
     width: 100%;
     height: 100%;
     object-fit: cover;
-}
+}*/
 
 /* create your tile classes! we recommend .small .med .large */
 .small{
