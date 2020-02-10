@@ -52,8 +52,11 @@ img:hover {
 }
 
 /* create your tile classes! we recommend .small .med .large */
-img {
-    object-fit: cover;
+col-1{
+  width:30%;
+}
+col-2{
+  width:60;
 }
 
 
