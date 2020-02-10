@@ -62,7 +62,7 @@ img{
   grid-column: 1/2;
 }
 .item_2{
-  grid-area: 1/2/3/4
+  grid-area: 1/2/3/4;
 }
 
 
