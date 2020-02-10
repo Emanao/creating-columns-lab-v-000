@@ -53,6 +53,7 @@ img{
 }
 .column {
   height: 100vh;
+  width: 90%;
   border: 1px solid #14a76c;
   display:grid;
   grid-template-columns: 1fr 1fr 1fr;
