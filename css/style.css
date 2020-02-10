@@ -85,6 +85,9 @@ img {
 }
 .medium__right{
   grid-area: 1/2/3/4;
+  width: 200%;
+  height: 200%;
+
 }
 .bottom__row{
   grid-row: 3/4;
